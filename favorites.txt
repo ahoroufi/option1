@@ -1,3 +1,8 @@
-Hamburger
-Chicken Salad
-Kabob
+Favorite foods:
+    Hamburger
+    Chicken Salad
+    Kabob
+Favorite movies:
+    Titanic
+    Dances with wolves
+    The Dark Knight
